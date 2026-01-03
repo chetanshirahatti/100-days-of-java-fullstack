@@ -25,7 +25,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Java Basics & First Program | ✅ |
-| Day 2 | Variables & Data Types | ⏳ |
+| Day 2 | Variables & Data Types | ✅ |
 | Day 3 | Conditions | ⏳ |
 | Day 4 | Loops | ⏳ |
 | Day 5 | Functions | ⏳ |
@@ -37,3 +37,7 @@ _(This table will grow daily.)_
 ---
 
 ## 🗂 Repository Structure
+
+
+
+

@@ -29,7 +29,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 3 | Conditions (if, else, switch) | ✅ |
 | Day 4 | Loops (for, while, do-while) | ✅ |
 | Day 5 | Functions / Methods | ✅ |
-| Day 6 | Arrays | ⏳ |
+| Day 6 | Arrays | ✅ |
 | Day 7 | Strings | ⏳ |
 
 _(This table will grow daily.)_

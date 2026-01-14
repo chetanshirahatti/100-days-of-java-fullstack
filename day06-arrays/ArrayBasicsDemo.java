@@ -7,11 +7,6 @@ public class ArrayBasicsDemo {
          of the SAME data type in one variable.
         */
 
-        // Without array (not good)
-        int mark1 = 60;
-        int mark2 = 70;
-        int mark3 = 80;
-
         // With array (best way)
         int[] marks = {60, 70, 80};
 

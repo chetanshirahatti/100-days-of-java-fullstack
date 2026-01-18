@@ -1,3 +1,5 @@
+
+
 // class Student represents a blueprint for creating student objects with properties like name, age, and marks, along with a method to display these details.we can create multiple student objects using this class, each having its own set of values for the properties defined in the class. We create objects in StudentTest.java file.
 
 public class Student {
@@ -19,5 +21,14 @@ public class Student {
         System.out.println("Name  : " + name);
         System.out.println("Age   : " + age);
         System.out.println("Marks : " + marks);
+    }
+
+    public static void main(String[] args) {
+        // This main method is just for testing the Student class independently.
+        Student student = new Student();
+        student.name = "Alice";
+        student.age = 20;
+        student.marks = 85;
+        student.displayStudentDetails();
     }
 }

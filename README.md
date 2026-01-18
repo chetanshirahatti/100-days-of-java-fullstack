@@ -8,36 +8,39 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 ---
 
 ## 🎯 Goals
-- Master Core Java concepts  
-- Build strong OOP foundation  
-- Learn SQL and database design  
-- Understand JEE (Servlets, JSP, MVC)  
-- Become confident in Spring & Spring Boot  
-- Build secure REST APIs  
-- Learn React for frontend  
-- Build a complete Full-Stack Web Application  
-- Commit every day to stay consistent  
+
+- Master Core Java concepts
+- Build strong OOP foundation
+- Learn SQL and database design
+- Understand JEE (Servlets, JSP, MVC)
+- Become confident in Spring & Spring Boot
+- Build secure REST APIs
+- Learn React for frontend
+- Build a complete Full-Stack Web Application
+- Commit every day to stay consistent
 
 ---
 
 ## 📅 Daily Progress Log
 
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Java Basics & First Program | ✅ |
-| Day 2 | Variables & Data Types | ✅ |
-| Day 3 | Conditions (if, else, switch) | ✅ |
-| Day 4 | Loops (for, while, do-while) | ✅ |
-| Day 5 | Functions / Methods | ✅ |
-| Day 6 | Arrays | ✅ |
-| Day 7 | Strings | ⏳ |
+| Day    | Topic                         | Status |
+| ------ | ----------------------------- | ------ |
+| Day 1  | Java Basics & First Program   | ✅     |
+| Day 2  | Variables & Data Types        | ✅     |
+| Day 3  | Conditions (if, else, switch) | ✅     |
+| Day 4  | Loops (for, while, do-while)  | ✅     |
+| Day 5  | Functions / Methods           | ✅     |
+| Day 6  | Arrays                        | ✅     |
+| Day 7  | Strings                       | ✅     |
+| Day 7  | String-memory                 | ✅     |
+| Day 8  | String -builder-stringbuffer  | ✅     |
+| Day 9  | Inputfrom_user                | ✅     |
+| Day 10 | Strings problems              | ✅     |
+| Day 11 | OOPS CONCEPS START            | ✅     |
+| Day 11 | Classes & Objects (OOP)       | ✅     |
 
 _(This table will grow daily.)_
 
 ---
 
 ## 🗂 Repository Structure
-
-
-
-

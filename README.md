@@ -38,6 +38,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 10 | Strings problems              | ✅     |
 | Day 11 | OOPS CONCEPS START            | ✅     |
 | Day 11 | Classes & Objects (OOP)       | ✅     |
+| Day 12 | Constructors                  | ✅     |
 
 _(This table will grow daily.)_
 

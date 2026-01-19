@@ -39,6 +39,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 11 | OOPS CONCEPS START            | ✅     |
 | Day 11 | Classes & Objects (OOP)       | ✅     |
 | Day 12 | Constructors                  | ✅     |
+| Day 13 | this keyword                  | ✅     |
 
 _(This table will grow daily.)_
 

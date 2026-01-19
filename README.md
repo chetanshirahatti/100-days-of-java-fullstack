@@ -1,7 +1,7 @@
 # 🚀 100 Days of Java Fullstack – Learning Journey
 
 This repository is my disciplined 100-day journey to master **Full Stack Java Development** including  
-**Core Java → SQL → JEE → Spring → Spring Boot → React → Full-Stack Projects**.
+**Core Java → SQL → Spring → Spring Boot → React → Full-Stack Projects**.
 
 My goal is to gain **100% clarity**, remove all confusion, and build strong real-world development skills.
 

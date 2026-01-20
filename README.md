@@ -23,23 +23,24 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 
 ## 📅 Daily Progress Log
 
-| Day    | Topic                         | Status |
-| ------ | ----------------------------- | ------ |
-| Day 1  | Java Basics & First Program   | ✅     |
-| Day 2  | Variables & Data Types        | ✅     |
-| Day 3  | Conditions (if, else, switch) | ✅     |
-| Day 4  | Loops (for, while, do-while)  | ✅     |
-| Day 5  | Functions / Methods           | ✅     |
-| Day 6  | Arrays                        | ✅     |
-| Day 7  | Strings                       | ✅     |
-| Day 7  | String-memory                 | ✅     |
-| Day 8  | String -builder-stringbuffer  | ✅     |
-| Day 9  | Inputfrom_user                | ✅     |
-| Day 10 | Strings problems              | ✅     |
-| Day 11 | OOPS CONCEPS START            | ✅     |
-| Day 11 | Classes & Objects (OOP)       | ✅     |
-| Day 12 | Constructors                  | ✅     |
-| Day 13 | this keyword                  | ✅     |
+| Day    | Topic                           | Status |
+| ------ | ------------------------------- | ------ |
+| Day 1  | Java Basics & First Program     | ✅     |
+| Day 2  | Variables & Data Types          | ✅     |
+| Day 3  | Conditions (if, else, switch)   | ✅     |
+| Day 4  | Loops (for, while, do-while)    | ✅     |
+| Day 5  | Functions / Methods             | ✅     |
+| Day 6  | Arrays                          | ✅     |
+| Day 7  | Strings                         | ✅     |
+| Day 7  | String-memory                   | ✅     |
+| Day 8  | String -builder-stringbuffer    | ✅     |
+| Day 9  | Inputfrom_user                  | ✅     |
+| Day 10 | Strings problems                | ✅     |
+| Day 11 | OOPS CONCEPS START              | ✅     |
+| Day 11 | Classes & Objects (OOP)         | ✅     |
+| Day 12 | Constructors                    | ✅     |
+| Day 13 | this keyword                    | ✅     |
+| Day 14 | Modifiers (Access & Non-Access) | ✅     |
 
 _(This table will grow daily.)_
 

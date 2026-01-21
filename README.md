@@ -41,6 +41,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 12 | Constructors                    | ✅     |
 | Day 13 | this keyword                    | ✅     |
 | Day 14 | Modifiers (Access & Non-Access) | ✅     |
+| Day 15 | Encapsulation                   | ✅     |
 
 _(This table will grow daily.)_
 

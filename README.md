@@ -43,6 +43,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 14 | Modifiers (Access & Non-Access) | ✅     |
 | Day 15 | Encapsulation                   | ✅     |
 | Day 16 | Inheritance                     | ✅     |
+| Day 17 | Method Overriding               | ✅     |
 
 _(This table will grow daily.)_
 

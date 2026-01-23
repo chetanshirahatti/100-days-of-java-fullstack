@@ -44,6 +44,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 15 | Encapsulation                   | ✅     |
 | Day 16 | Inheritance                     | ✅     |
 | Day 17 | Method Overriding               | ✅     |
+| Day 18 | Polymorphism                    | ✅     |
 
 _(This table will grow daily.)_
 

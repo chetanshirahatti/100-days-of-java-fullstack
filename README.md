@@ -46,6 +46,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 17 | Method Overriding                        | ✅     |
 | Day 18 | Polymorphism                             | ✅     |
 | Day 19 | Abstraction (Abstract class & Interface) | ✅     |
+| Day 20 | Exception Handling                       | ✅     |
 
 _(This table will grow daily.)_
 

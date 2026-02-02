@@ -47,6 +47,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 18 | Polymorphism                             | ✅     |
 | Day 19 | Abstraction (Abstract class & Interface) | ✅     |
 | Day 20 | Exception Handling                       | ✅     |
+| Day 21 | Collections – List (ArrayList)           | ✅     |
 
 _(This table will grow daily.)_
 

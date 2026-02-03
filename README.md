@@ -48,6 +48,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 19 | Abstraction (Abstract class & Interface) | ✅     |
 | Day 20 | Exception Handling                       | ✅     |
 | Day 21 | Collections – List (ArrayList)           | ✅     |
+| Day 22 | Collections – LinkedList                 | ✅     |
 
 _(This table will grow daily.)_
 

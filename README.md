@@ -49,6 +49,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 20 | Exception Handling                       | ✅     |
 | Day 21 | Collections – List (ArrayList)           | ✅     |
 | Day 22 | Collections – LinkedList                 | ✅     |
+| Day 23 | Collections – HashSet Deep               | ✅     |
 
 _(This table will grow daily.)_
 

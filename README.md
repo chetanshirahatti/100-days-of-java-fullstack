@@ -51,6 +51,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 22 | Collections – LinkedList                 | ✅     |
 | Day 23 | Collections – HashSet Deep               | ✅     |
 | Day 24 | Collections – HashMap Deep               | ✅     |
+| Day 25 | Iterator Deep                            | ✅     |
 
 _(This table will grow daily.)_
 

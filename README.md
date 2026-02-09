@@ -54,6 +54,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 25 | Iterator Deep                            | ✅     |
 | Day 26 | Comparable vs Comparator Deep            | ✅     |
 | Day 27 | Generics Deep                            | ✅     |
+| Day 28 | Streams API Deep                         | ✅     |
 
 _(This table will grow daily.)_
 

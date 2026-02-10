@@ -56,6 +56,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 27 | Generics Deep                            | ✅     |
 | Day 28 | Streams API Deep                         | ✅     |
 | Day 29 | Lambda Expressions Deep                  | ✅     |
+| Day 30 | Optional Deep                            | ✅     |
 
 _(This table will grow daily.)_
 

@@ -58,6 +58,7 @@ My goal is to gain **100% clarity**, remove all confusion, and build strong real
 | Day 29 | Lambda Expressions Deep                  | ✅     |
 | Day 30 | Optional Deep                            | ✅     |
 | Day 31 | Multithreading Deep                      | ✅     |
+| Day 32 | ExecutorService Deep                     | ✅     |
 
 _(This table will grow daily.)_
 
